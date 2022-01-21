@@ -1,0 +1,19 @@
+.form-1 {
+    border: 1px solid grey;
+    padding: 15px 80px 15px 80px;
+}
+
+.line-text {
+    color: transparent;
+    border-bottom: 1px solid grey;
+}
+
+.forg-pass {
+padding-left: 40px;
+}
+
+.account-create {
+    color: black;
+    background-color: lightgrey;
+    border-radius: 2px;
+}
